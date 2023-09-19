@@ -19,27 +19,17 @@ Adding comments on the code obejectives: <br/>
 <br />
 <br />
 Step 2:  <br/>
-<img src="https://i.imgur.com/nUVVSZA.png?1[/img]](https://imgur.com/nUVVSZA)" height="80%" width="80%"/>
-<br />
-<br />
-Step 3: <br/>
 <img src="https://i.imgur.com/WiyWxUw.png?1[1/img](https://imgur.com/nUVVSZA)" height="80%" width="80%"/>
 <br />
 <br />
+Step 3: <br/>
+<img src="https://i.imgur.com/dKXnNxv.png?1[1/img](https://imgur.com/nUVVSZA)" height="80%" width="80%"/>
+<br />
+<br />
 Step 4:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png?1[1/img](https://imgur.com/2fJUvge)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2fJUvge.png?1[1/img](https://imgur.com/nUVVSZA)" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--

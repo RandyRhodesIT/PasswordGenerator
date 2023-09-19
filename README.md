@@ -14,7 +14,7 @@ This Python program is like a magical password creator. You can tell it how long
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Adding comments on the code objectives: <br/>
+Step 1: Adding comments on the code objectives: <br/>
 <img src="https://i.imgur.com/nUVVSZA.png?1[/img]](https://imgur.com/nUVVSZA)" height="80%" width="80%"/>
 <br />
 <br />
@@ -26,7 +26,7 @@ Step 3: <br/>
 <img src="https://i.imgur.com/dKXnNxv.png?1[1/img](https://imgur.com/nUVVSZA)" height="80%" width="80%"/>
 <br />
 <br />
-Step 4: Program displaying when a user inputs "Yes" and picks a number, in this case "12" and the final output! <br/>
+Step 4: Program displaying when a user inputs "Yes," then picks a number "12," and the final output! <br/>
 <img src="https://i.imgur.com/2fJUvge.png?1[1/img](https://imgur.com/nUVVSZA)" height="80%" width="80%"/>
 <br />
 <br />

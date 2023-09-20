@@ -27,7 +27,7 @@ Step 3: <br/>
 <br />
 <br />
 Step 4: Program displaying when a user inputs "Yes," then picks a number "12," and the final output! <br/>
-<img src="https://i.imgur.com/2fJUvge.png?1[1/img](https://imgur.com/nUVVSZA)" height="80%" width="80%"/>
+<img src="https://i.imgur.com/2fJUvge.png?1[1/img](https://imgur.com/2fJUvge)" height="80%" width="80%"/>
 <br />
 <br />
 </p>
